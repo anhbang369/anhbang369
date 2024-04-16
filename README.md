@@ -21,6 +21,12 @@
 
 <br />
 <br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://landing-page-anh-bang.web.app/ anhbang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://landing-page-anh-bang.web.app/ anhbang" height="30" width="40" /></a>
+</p>
+<br />
+<br />
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center"> <a href="https://www.java.com" target="_blank"
